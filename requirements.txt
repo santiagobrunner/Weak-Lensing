@@ -1,0 +1,18 @@
+# Core scientific computing
+numpy>=1.20.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+
+# Astronomy and cosmology
+healpy>=1.15.0
+pyccl>=3.0.0
+
+# Machine learning (for Gaussian Mixture Models)
+scikit-learn>=1.0.0
+
+# Galaxy simulation and lensing
+galsbi>=1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
